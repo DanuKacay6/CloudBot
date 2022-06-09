@@ -9,14 +9,14 @@ global.thumbmenu = process.env.THUMB_MENU
 global.sig = process.env.LINK_IG
 global.sgh = process.env.LINK_GITHUB
 global.sgc = process.env.lINK_GROUP
-global.ownernumber = process.env.6281258715448
+global.ownernumber = process.env.NOWNER
 global.owner = [
   ['0'],
   ['0'],
   [`${process.env.NOWNER}`, `${process.env.NAMAOWNER}`, true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = [`${process.env.6281258715448}`] // Want some help?
+global.mods = [`${process.env.MODERATOR}`] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
