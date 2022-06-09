@@ -13,7 +13,7 @@ global.ownernumber = process.env.NOWNER
 global.owner = [
   ['081258715448'],
   ['0'],
-  [`621258715448`, `Danukacay`, true]
+  [`081258715448`, `Danukacay`, true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [`${process.env.MODERATOR}`] // Want some help?
