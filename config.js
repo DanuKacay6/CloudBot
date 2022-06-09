@@ -11,10 +11,10 @@ global.sgh = process.env.LINK_GITHUB
 global.sgc = process.env.lINK_GROUP
 global.ownernumber = process.env.NOWNER
 global.owner = [
-  ['081258715448'],
+  ['+6281258715448'],
   ['0'],
-  [`081258715448`, `Danukacay`, true]
-  // [number, dia creator/owner?, dia developer?]
+  [`+6281258715448`, `Kacay`, true]
+  // number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [`${process.env.MODERATOR}`] // Want some help?
 global.prems = [] // Premium user has unlimited limit
