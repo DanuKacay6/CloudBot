@@ -9,52 +9,52 @@
         "NOWNER": {
             "description": "Nomer Owner",
             "required": true,
-            "value": "6281258715448"
+            "value": "6281258715448",
         },
         "NAMAOWNER": {
             "description": "Nama Owner",
             "required": true,
-            "value": "Kacay"
+            "value": "Kacay",
         },
         "LINK_GITHUB": {
             "description": "Link Github",
             "required": true,
-            "value": "https://github.com/Danukacay4"
+            "value": "https://github.com/Danukacay4",
         },
         "LINK_IG": {
             "description": "Link Profile Instagram",
             "required": true,
-            "value": "https://www.instagram.com/Teamkacay"
+            "value": "https://www.instagram.com/Teamkacay",
         },
         "LINK_GROUP": {
             "description": "Link tautan grup whatsapp",
             "required": true,
-            "value": "https://chat.whatsapp.com/HdinO9Dtyur0yPC0LcUQAl"
+            "value": "https://chat.whatsapp.com/HdinO9Dtyur0yPC0LcUQAl",
         },
         "PACKNAME": {
             "description": "Packname sticker",
             "required": true,
-            "value": "Created by"
+            "value": "Created by",
         },
         "AUTHOR": {
             "description": "Author Bot (WM)",
             "required": true,
-            "value": "CloudBot"
+            "value": "CloudBot",
         },
         "MODERATOR": {
             "description": "Moderator Bot",
             "required": false,
-            "value": ""
+            "value": "",
         },
         "THUMB_MENU": {
             "description": "Nomer Owner",
             "required": true,
-            "value": "https://telegra.ph/file/baea4ead668adebdc5073.jpg"
+            "value": "https://telegra.ph/file/baea4ead668adebdc5073.jpg",
         },
         "DONASI": {
             "description": "Nomer Owner",
             "required": true,
-            "value": "https://saweria.co/itsmedell"
+            "value": "https://saweria.co/itsmedell",
         }
 },
   "buildpacks": [
