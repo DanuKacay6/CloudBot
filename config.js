@@ -12,8 +12,8 @@ global.sgc = process.env.lINK_GROUP
 global.ownernumber = process.env.NOWNER
 global.owner = [
   ['081258715448'],
-  ['085787403870'],
-  [`${process.env.NOWNER}`, `${process.env.NAMAOWNER}`, true]
+  ['0'],
+  [`621258715448`, `Danukacay`, true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [`${process.env.MODERATOR}`] // Want some help?
